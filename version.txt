@@ -1,7 +1,1 @@
-8.0 ZoloCheat
-gdk
-hdj
-uwow
-gdns
-gsjs
-js
+ZoloCheat 8.1
