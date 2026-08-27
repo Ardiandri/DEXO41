@@ -1,7 +1,1 @@
-6.0.0 Zolo+
-hdjd
-jdkd
-jdk
-jdkd
-jdjd
-hdjd
+Zolo+ 7.0
